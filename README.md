@@ -1,0 +1,1 @@
+# fantasy-rpg-singleton-factory
